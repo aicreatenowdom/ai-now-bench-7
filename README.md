@@ -69,7 +69,7 @@ Administrator approval is required for hardware access and prerequisites. Setup 
 
 ## Get started
 
-1. Download the [Windows x64 installer](https://download.aicreatenow.com/software/AINowBench7x64signed.exe). The [official download page](https://ainowbench.com/download.html) lists release details and the SHA-256 checksum. A [Microsoft Store listing](https://apps.microsoft.com/detail/xp9cqkq6cn3f6j?hl=en-US&gl=US) is also available; release timing can differ by channel.
+1. Download the [Windows x64 installer](https://ainowbench.com/download.html). The [official download page](https://ainowbench.com/download.html) lists release details and the SHA-256 checksum. A [Microsoft Store listing](https://apps.microsoft.com/detail/xp9cqkq6cn3f6j?hl=en-US&gl=US) is also available; release timing can differ by channel.
 2. Review the requirements and [EULA and privacy notice](https://ainowbench.com/privacy-policy.txt), then install.
 3. Save your work, close heavy background applications, and check that your system has suitable cooling and power.
 4. Select a full **Standard / Recommended** run and review the comparison-sharing choice before starting. **Uncheck sharing for local-only reports.**
