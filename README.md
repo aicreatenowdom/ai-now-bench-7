@@ -89,6 +89,12 @@ Read the [benchmark privacy page](https://ainowbench.com/privacy.html) and [full
 
 Email **[info@aicreatenow.com](mailto:info@aicreatenow.com)** with your application version, Windows version, a description of the issue, and steps to reproduce it. Include a Result ID when relevant. For privacy or result-removal requests, use the same address.
 
+## Practical guide and release notes
+
+[Getting started and common questions](GETTING-STARTED.md) · [GitHub release notes](https://github.com/aicreatenowdom/ai-now-bench-7/releases) · [Support](SUPPORT.md)
+
+GitHub's **Code → Download ZIP** contains this repository's documentation and artwork. Get the Windows application through the [official product page](https://ainowbench.com/download.html).
+
 ## Source and licensing
 
 AI Now Bench is proprietary software distributed under its publisher's [EULA](https://ainowbench.com/privacy-policy.txt). This repository provides product information and documentation; **the application source code is not included**. No open-source license for the application is granted by this repository.

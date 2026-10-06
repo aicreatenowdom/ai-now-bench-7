@@ -9,3 +9,10 @@ Include the application version, Windows version, relevant hardware, what you ex
 Send full technical reports through private email support. Reports can contain Windows user/computer names, local paths and diagnostics; do not attach them to a public issue. Remove passwords, tokens, license keys and unrelated personal information from anything you share.
 
 Application downloads are available from the [official download page](https://ainowbench.com/download.html). GitHub's Code / Download ZIP contains this repository's documentation and artwork, not the Windows application.
+
+## Before contacting support
+
+- Record the exact test name and its status, plus whether the rest of the suite completed.
+- For comparison questions, include both benchmark versions and describe any hardware, driver or power-setting changes.
+
+[Product guide and common questions](GETTING-STARTED.md)
